@@ -6,7 +6,7 @@
 <!-- classPath:数据库的JDBC驱动-->
 <generatorConfiguration>
     <classPathEntry
-            location="D:/developer/maven_localRepository/mysql/mysql-connector-java/6.0.6/mysql-connector-java-6.0.6.jar"/>
+            location="D:/developer/maven_localRepository/mysql/mysql-connector-java/5.1.30/mysql-connector-java-5.1.30.jar"/>
 
     <context id="default" targetRuntime="MyBatis3">
 
