@@ -74,12 +74,6 @@
     </dependency>
 
     <dependency>
-      <groupId>com.crcloud</groupId>
-      <artifactId>crcloud-core</artifactId>
-      <version>1.0.2-SNAPSHOT</version>
-    </dependency>
-
-    <dependency>
       <groupId>org.projectlombok</groupId>
       <artifactId>lombok</artifactId>
       <optional>true</optional>
@@ -160,12 +154,6 @@
     </dependency>
 
     <dependency>
-      <groupId>com.crcloud</groupId>
-      <artifactId>crcloud-mail-service</artifactId>
-      <version>1.0</version>
-    </dependency>
-
-    <dependency>
       <groupId>com.microsoft.ews-java-api</groupId>
       <artifactId>ews-java-api</artifactId>
       <version>2.0</version>
@@ -190,12 +178,6 @@
       <artifactId>spring-test</artifactId>
       <version>5.1.5.RELEASE</version>
       <scope>compile</scope>
-    </dependency>
-
-    <dependency>
-      <groupId>com.amazonaws</groupId>
-      <artifactId>s3-sdk-java</artifactId>
-      <version>1.2.0</version>
     </dependency>
 
     <!-- rabbitmq -->
@@ -234,12 +216,6 @@
       <groupId>com.alibaba</groupId>
       <artifactId>easyexcel</artifactId>
       <version>1.1.2-beta5</version>
-    </dependency>
-
-    <dependency>
-      <groupId>com.crc.api</groupId>
-      <artifactId>api-cloud-sdk</artifactId>
-      <version>0.0.2</version>
     </dependency>
 
     <!--mybatis.generator-->
